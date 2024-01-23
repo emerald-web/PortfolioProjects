@@ -1,3 +1,5 @@
+--DATA EXPLORATION WITH COVID CASES
+
 --Select *
 --From PortfolioProject..CovidDeaths
 --order by 3,4
