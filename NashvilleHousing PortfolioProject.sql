@@ -1,4 +1,4 @@
--- CLEANING DATA IN SQL QUERIES
+-- NASHVILLE HOUSING DATA CLEANING
 
 Select *
 From PortfolioProject.dbo.Nashville
